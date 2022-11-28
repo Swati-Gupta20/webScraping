@@ -1,0 +1,122 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "/title/tt0259534/",
+    "name": "Ramayana: The Legend of Prince Rama",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjI0YzhlNjYtMGFhZS00ZDI3LTg4NDQtNTNmNjM2NzNkY2RhXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
+    "description": "An anime adaptation of the Hindu epic the Ramayana, where Lord Ram combats the wicked king Ravana.",
+    "review": {
+        "@type": "Review",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt0259534/"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "deepakyadavhp"
+        },
+        "dateCreated": "2012-10-26",
+        "inLanguage": "English",
+        "name": "EPIC at its Best",
+        "reviewBody": "I was 11 or 12 when i first watch this movie on TV. And i was like WOW. i have already watched the Ramayana series by Ramanand Sagar which is an epic, but it had told the story in a number of episodes... while here we got the main story of prince Rama in 170 minute, although it didn&apos;t cover the whole epic but it still amazes me. The voice over actors did their best especially Amrish Puri, he had done some very memorable villainous roles in some of the best Hindi movies and i think this is one of them. While Arun Govil has played Rama in Ramamnand Sagar&apos;s Ramayana that&apos;s why his voice seems very suitable for the role to me and many who has seen the TV series.\n\nAnd now lets talk about the animation...its marvelous if we compare it with the time it was produced in especially in India. where there is no animation movie been release before. This movie has give me some best memories of my childhood and that is why i still remember it. I am 19 years old by the way.",
+        "reviewRating": {
+            "@type": "Rating",
+            "worstRating": 1,
+            "bestRating": 10,
+            "ratingValue": 8
+        }
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 8181,
+        "bestRating": 10,
+        "worstRating": 1,
+        "ratingValue": 9.2
+    },
+    "contentRating": "U",
+    "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+    ],
+    "datePublished": "2001-09-25",
+    "keywords": "rama,ramayan,sita,legend,anime",
+    "trailer": {
+        "@type": "VideoObject",
+        "name": "Trailer [OV]",
+        "embedUrl": "https://www.imdb.com/video/imdb/vi2696398105",
+        "thumbnail": {
+            "@type": "ImageObject",
+            "contentUrl": "https://m.media-amazon.com/images/M/MV5BZjdlY2U3ZGQtNTRmNi00Y2EwLTlhNGEtN2Q0MDY1MDdlNmUwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg"
+        },
+        "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BZjdlY2U3ZGQtNTRmNi00Y2EwLTlhNGEtN2Q0MDY1MDdlNmUwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+        "url": "https://www.imdb.com/video/vi2696398105/",
+        "description": "",
+        "duration": "PT1M37S",
+        "uploadDate": "2022-10-11T12:13:16.361Z"
+    },
+    "actor": [
+        {
+            "@type": "Person",
+            "url": "/name/nm0186505/",
+            "name": "Bryan Cranston"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm4468244/",
+            "name": "Arun Govil"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm13360478/",
+            "name": "Nikhil Kapoor"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "url": "/name/nm0595917/",
+            "name": "Ram Mohan"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm0757223/",
+            "name": "Y\u00fbg\u00f4 Sak\u00f4"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm0765886/",
+            "name": "Koichi Saski"
+        }
+    ],
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0068327/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0136956/"
+        },
+        {
+            "@type": "Organization",
+            "url": "/company/co0911395/"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm13353941/",
+            "name": "Rani Burra"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm0595917/",
+            "name": "Ram Mohan"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm0757223/",
+            "name": "Y\u00fbg\u00f4 Sak\u00f4"
+        }
+    ],
+    "duration": "PT1H37M"
+}

@@ -1,0 +1,773 @@
+[
+    {
+        "name": "Ramayana: The Legend of Prince Rama",
+        "director": "Ram Mohan",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI0YzhlNjYtMGFhZS00ZDI3LTg4NDQtNTNmNjM2NzNkY2RhXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg",
+        "description": "An anime adaptation of the Hindu epic the Ramayana, where Lord Ram combats the wicked king Ravana.",
+        "language": "Hindi",
+        "gener": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "duration": [
+            "1H 37M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Rocketry: The Nambi Effect",
+        "director": "Madhavan",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTk2MjUxMjEtZDU5OC00MzYxLTkwMWYtMGM5YWQ0MWMyN2I1XkEyXkFqcGdeQXVyMTE0MzY0NjE1._V1_.jpg",
+        "description": "Based on the life of Indian Space Research Organization scientist Nambi Narayanan, who was framed for being a spy and arrested in 1994. Though free, he continues to fight for justice against the officials who falsely implicated him.",
+        "language": "Hindi",
+        "gener": [
+            "Biography",
+            "Drama"
+        ],
+        "duration": [
+            "2H 37M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Kantara",
+        "director": "Rishab Shetty",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWNjZjNkNmItZjlmNS00ZDE5LTkyZGUtOWZmNTY0MmFhOWI4XkEyXkFqcGdeQXVyMTExNjE4MzAw._V1_.jpg",
+        "description": "It involves culture of Kambla and Bhootha Kola. A human and nature conflict where Shiva is a rebel who defends his village and nature. A death leads to war between villagers and evil forces. Will he able to regain peace in the vil...",
+        "language": "Kannada",
+        "gener": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "duration": [
+            "2H 28M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Golmaal",
+        "director": "Hrishikesh Mukherjee",
+        "image": "https://m.media-amazon.com/images/M/MV5BM2Y3Y2Q5ZDMtZjk4ZC00ODAwLTkwMDMtMjE4NWU2MmEzMWU2XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_.jpg",
+        "description": "A man&apos;s simple lie to secure his job escalates into more complex lies when his orthodox boss gets suspicious.",
+        "language": "Hindi",
+        "gener": [
+            "Comedy",
+            "Romance"
+        ],
+        "duration": [
+            "2H 24M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "777 Charlie",
+        "director": "Kiranraj K",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDhhMjBlMWYtMDVlMy00ZjM3LTg3MTUtZDg0NjA0YzcxOGY4XkEyXkFqcGdeQXVyMTE0MzY0NjE1._V1_.jpg",
+        "description": "Dharma is stuck in a rut with his negative and lonely lifestyle and spends each day in the comfort of his loneliness. A pup named Charlie enters his life and gives him a new perspective towards it.",
+        "language": "Kannada",
+        "gener": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "duration": [
+            "2H 16M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Nayakan",
+        "director": "Mani Ratnam",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDViYzdlZjMtNTA2NS00MThhLWEwYTktNTE0OGZlNjJiZDJlXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_.jpg",
+        "description": "A common man&apos;s struggles against a corrupt police force put him on the wrong side of the law. He becomes a don, who is loved and respected by many, but his growing power and influence exact a heavy toll.",
+        "language": "Tamil",
+        "gener": [
+            "Crime",
+            "Drama"
+        ],
+        "duration": [
+            "2H 36M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Anbe Sivam",
+        "director": "Sundar C.",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTcwNDQ5MTctYzZmYS00ZjNmLWE3ZWUtMjZlMGM2NzhmNzAxXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_.jpg",
+        "description": "Two men, one young and arrogant, the other damaged - physically but not spiritually - by life, are thrown together by circumstances, and find that they are in some ways bound together by fate.",
+        "language": "Tamil",
+        "gener": [
+            "Adventure",
+            "Comedy",
+            "Drama"
+        ],
+        "duration": [
+            "2H 40M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Jai Bhim",
+        "director": "T.J. Gnanavel",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTM0NWFjNGYtNjExMS00ZTZlLWFiYmMtZmU4ZjZkMmMxZTNjXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_.jpg",
+        "description": "When a tribal man is arrested for a case of alleged theft, his wife turns to a human-rights lawyer to help bring justice.",
+        "language": "Tamil",
+        "gener": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": [
+            "2H 44M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Pariyerum Perumal",
+        "director": "Mari Selvaraj",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGYyOTdhMWEtMjdkNi00ZWJhLTkwYTUtODI0M2E4NjIzMTkyXkEyXkFqcGdeQXVyMTEzNzg0Mjkx._V1_.jpg",
+        "description": "A law student from a lower caste begins a friendship with his classmate, a girl who belongs to a higher caste, and the men in her family start giving him trouble over this.",
+        "language": "Tamil",
+        "gener": [
+            "Drama"
+        ],
+        "duration": [
+            "2H 34M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "3 Idiots",
+        "director": "Rajkumar Hirani",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "description": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them &quot;idiots&quot;.",
+        "language": "Hindi",
+        "gener": [
+            "Comedy",
+            "Drama"
+        ],
+        "duration": [
+            "2H 50M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Apur Sansar",
+        "director": "Satyajit Ray",
+        "image": "https://m.media-amazon.com/images/M/MV5BN2ZhM2NkZDUtMTI3OC00NWE5LWEwYzMtZTlhMjhkZGFlMjQyXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+        "description": "This final installment in Satyajit Ray&apos;s Apu Trilogy follows Apu&apos;s life as an orphaned adult aspiring to be a writer.",
+        "language": "Bengali",
+        "gener": [
+            "Drama"
+        ],
+        "duration": [
+            "1H 45M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Manichitrathazhu",
+        "director": "Fazil",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjQxMmE4NDMtZGVkYi00YmQyLThiNTMtOTVmNDEyZWQ2MzUwXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+        "description": "When a forbidden room in an old bungalow is unbolted, the spirit of a vengeful dancer is unleashed.",
+        "language": "Malayalam",
+        "gener": [
+            "Comedy",
+            "Horror",
+            "Mystery"
+        ],
+        "duration": [
+            "2H 49M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "#Home",
+        "director": "Rojin Thomas",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGQxMzI4YmQtNWUwOC00NGQwLWEzNjYtZWZjMmIxYWJjMjdmXkEyXkFqcGdeQXVyMTM2Mzg0NDg3._V1_.jpg",
+        "description": "Oliver Twist (Indrans) wants to be tech-savvy and become a better companion to his two sons, who spend more time on their phones than with their loved ones.",
+        "language": "Malayalam",
+        "gener": [
+            "Drama"
+        ],
+        "duration": [
+            "2H 38M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Black Friday",
+        "director": "Anurag Kashyap",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjA2NjJmOGMtMGMxMS00OGNhLWE2OTEtM2NjYWE5ZGI1MjYyXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "description": "A film about the investigations following the 1993 serial Bombay bomb blasts, told through the different stories of the people involved --police, conspirators, victims, middlemen.",
+        "language": "Hindi",
+        "gener": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "duration": [
+            "2H 23M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Kumbalangi Nights",
+        "director": "Madhu C. Narayanan",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjYyZTNkZGYtZGJjZC00NmM2LThjNjMtMjYxYTI0NTg1NzViXkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_.jpg",
+        "description": "The film revolves around four brothers who share a love-hate relationship with each other. Their relationship progresses to another level when Saji, Boney, and Franky decide to help Bobby stand by his love.",
+        "language": "Malayalam",
+        "gener": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "duration": [
+            "2H 15M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Soorarai Pottru",
+        "director": "Sudha Kongara",
+        "image": "https://m.media-amazon.com/images/M/MV5BODRjZGVkNWYtZWExNS00ODEyLWI2ZjUtZGRlMWQ1MDk4NDMzXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpg",
+        "description": "Nedumaaran Rajangam &quot;Maara&quot; sets out to make the common man fly and in the process takes on the world&apos;s most capital intensive industry and several enemies who stand in his way.",
+        "language": "Tamil",
+        "gener": [
+            "Drama"
+        ],
+        "duration": [
+            "2H 33M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Taare Zameen Par",
+        "director": "Aamir Khan",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTVmYTk2NjAtYzY3MS00YjFjLTlkYzktYzg3YzMyZDQyOWRiXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+        "description": "An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+        "language": "Hindi",
+        "gener": [
+            "Drama",
+            "Family"
+        ],
+        "duration": [
+            "2H 45M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "C/o Kancharapalem",
+        "director": "Venkatesh Maha",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjg2YWM0YzUtODViNS00OWRkLWI0YmItNDdhODUwMjVhYjQ1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "description": "Four unconventional love stories set in the town and including the people of Kancherapalem.",
+        "language": "Telugu",
+        "gener": [
+            "Drama"
+        ],
+        "duration": [
+            "2H 32M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Kireedam",
+        "director": "Sibi Malayil",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGQ0NzRkMGMtNjViZC00MWZhLWJhOTgtMzQ3ZTI4NDEwZDdlXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+        "description": "The life of a young man turns upside down when he intervenes in a dispute in order to rescue his father (a cop) from a ruthless local outlaw.",
+        "language": "Malayalam",
+        "gener": [
+            "Action",
+            "Drama"
+        ],
+        "duration": [
+            "2H 4M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Dangal",
+        "director": "Nitesh Tiwari",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTkyYmQ4ZTUtMTA4Yy00OGM3LWExNzAtZTA4NGRjMzJkMjgxL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzgxNjA1NTE@._V1_.jpg",
+        "description": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+        "language": "Hindi",
+        "gener": [
+            "Action",
+            "Biography",
+            "Drama"
+        ],
+        "duration": [
+            "2H 41M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Kaithi",
+        "director": "Lokesh Kanagaraj",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTIzMTY2NGYtNzM0NS00NmFkLWFkZmUtZTcxMGEwNjhmYjg5XkEyXkFqcGdeQXVyMTU0MzI1OTY@._V1_.jpg",
+        "description": "Dilli, an ex-convict, endeavours to meet his daughter for the first time after leaving prison. However, his attempts are interrupted due to a drug raid planned by Inspector Bejoy.",
+        "language": "Tamil",
+        "gener": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "duration": [
+            "2H 25M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Jersey",
+        "director": "Gowtam Tinnanuri",
+        "image": "https://m.media-amazon.com/images/M/MV5BZWNiODc3MDgtMDEyNi00MzhkLThiMzktMjlhZGVjZGUzZjEyXkEyXkFqcGdeQXVyODU1MjM4NjA@._V1_.jpg",
+        "description": "A failed cricketer decides to revive his cricketing career in his late 30&apos;s despite everyone being skeptical of his ability to do so.",
+        "language": "Telugu",
+        "gener": [
+            "Drama",
+            "Sport"
+        ],
+        "duration": [
+            "2H 37M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "96",
+        "director": "C. Prem Kumar",
+        "image": "https://m.media-amazon.com/images/M/MV5BYzdkYzNmNTgtZGQ0OC00OTI3LWI4OTctYzM3MTJlMGQyMjY1XkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_.jpg",
+        "description": "Two high school sweethearts meet at a reunion after 22 years and reminisce about their past.",
+        "language": "Tamil",
+        "gener": [
+            "Drama",
+            "Romance"
+        ],
+        "duration": [
+            "2H 38M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Asuran",
+        "director": "Vetrimaaran",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjU1OTliOWYtYzg3Yi00ODVmLWIzMjctZGJmZjRhZjY5OTA2XkEyXkFqcGdeQXVyMTAwMDE4MjA3._V1_.jpg",
+        "description": "The teenage son of a farmer from an underprivileged caste kills a rich, upper caste landlord. Will the farmer, a loving father and a pacifist by heart, be able to save his hot-blooded son is the rest of the story.",
+        "language": "Tamil",
+        "gener": [
+            "Action",
+            "Drama"
+        ],
+        "duration": [
+            "2H 21M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Thevar Magan",
+        "director": "Bharathan",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjdlYzdmZGMtY2U2My00YmNmLTkwYTEtMWE1NTM3MWNiYjM3XkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_.jpg",
+        "description": "The urbane son of a village chieftain struggles between his personal aspirations and those of his family.",
+        "language": "Tamil",
+        "gener": [
+            "Drama"
+        ],
+        "duration": [
+            "2H 25M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Natsamrat",
+        "director": "Mahesh Manjrekar",
+        "image": "https://m.media-amazon.com/images/M/MV5BYjkzZWIyZTctN2U3Ny00MDZlLTkzZTYtMTI2MWI5YTFiZWZkXkEyXkFqcGdeQXVyNTM2NTg3Nzg@._V1_.jpg",
+        "description": "After he retires, an aging theatre actor and his wife begin to feel unwanted by their children.",
+        "language": "Marathi",
+        "gener": [
+            "Drama",
+            "Family"
+        ],
+        "duration": [
+            "2H 46M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Drishyam 2",
+        "director": "Jeethu Joseph",
+        "image": "https://m.media-amazon.com/images/M/MV5BNmI2ZWYwOWMtOTNiMC00ZmFkLWEzZmYtYWE4MzcxMTA5MGY1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_.jpg",
+        "description": "A gripping tale of an investigation and a family which is threatened by it. Will Georgekutty be able to protect his family this time?",
+        "language": "Malayalam",
+        "gener": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "duration": [
+            "2H 32M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Visaaranai",
+        "director": "Vetrimaaran",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjI2Y2Q5ZGEtOGUzZS00NjY3LWE0N2UtZGQzNmFlZjFkYjA3XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg",
+        "description": "Four labourers are tortured by the police to confess to a theft they have not committed.",
+        "language": "Tamil",
+        "gener": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "duration": [
+            "1H 57M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Pather Panchali",
+        "director": "Satyajit Ray",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+        "description": "Impoverished priest Harihar Ray, dreaming of a better life for himself and his family, leaves his rural Bengal village in search of work.",
+        "language": "Bengali",
+        "gener": [
+            "Drama"
+        ],
+        "duration": [
+            "2H 5M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Thalapathi",
+        "director": "Mani Ratnam",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGE5NzVjNTEtMGUwYi00YzU0LWIyYTctNDc0ZjMxNGNhYzg5XkEyXkFqcGdeQXVyMjMwODI3NDE@._V1_.jpg",
+        "description": "An orphan named Surya raised in a slum befriends a good crime boss named Devaraj and works for him. Their existence is threatened when a new honest district collector arrives.",
+        "language": "Tamil",
+        "gener": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "duration": [
+            "2H 37M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Sarpatta Parambarai",
+        "director": "Pa. Ranjith",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjQzMDkxNWYtOTc5ZS00NGUxLWE0MGEtMzY1Njk5NjA5MzdiXkEyXkFqcGdeQXVyMTI2ODI1Mzc0._V1_.jpg",
+        "description": "When Sarpatta Parambarai is challenged to a do-or-die match, will Kabilan, a young labourer, put on the gloves himself and lead his clan to victory, or be dissuaded by his disapproving mother and dangerous politics?",
+        "language": "Tamil",
+        "gener": [
+            "Action",
+            "Drama",
+            "Sport"
+        ],
+        "duration": [
+            "2H 53M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Sita Ramam",
+        "director": "Hanu Raghavapudi",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGE4MjRjNjEtYjY1YS00Mjk1LTk0ZTctNjY0OGNhNWZlNTAyXkEyXkFqcGdeQXVyMTM1MzAzNzUx._V1_.jpg",
+        "description": "An orphan soldier, Lieutenant Ram&apos;s life changes, after he gets a letter from a girl named Sita. He meets her and love blossoms between them. When he comes back to his camp in Kashmir,After he gets caught in jail, he sends a lette...",
+        "language": "Telugu",
+        "gener": [
+            "Action",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": [
+            "2H 43M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Jaane Bhi Do Yaaro",
+        "director": "Kundan Shah",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDE0Y2NhYjEtNWM3MS00MzFiLTlkODctYmViY2Q4OTczYWI2XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+        "description": "Two friends, attempting to start-up their own photo studio, come across shady dealings, corruption and murder, and must fight to bring the guilty to light.",
+        "language": "Hindi",
+        "gener": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "duration": [
+            "2H 12M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Sardar Udham",
+        "director": "Shoojit Sircar",
+        "image": "https://m.media-amazon.com/images/M/MV5BZGFhNTYwZmMtNzk4Ny00MTExLThjMWUtNjYzMTEwZjEzMWQ3XkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_.jpg",
+        "description": "A biopic detailing the 2 decades that Punjabi Sikh revolutionary Udham Singh spent planning the assassination of the man responsible for the Jallianwala Bagh massacre.",
+        "language": "Hindi",
+        "gener": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "duration": [
+            "2H 44M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Thani Oruvan",
+        "director": "Mohan Raja",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTc3OWQzYjUtNmRiMi00MGUwLWI4ODEtMjU4YWRiYjBlM2Y1XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg",
+        "description": "Siddharth Abimanyu, an influential scientist, is involved in various illegal medical practices. Mithran, an efficient IPS officer, decides to expose him.",
+        "language": "Tamil",
+        "gener": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "duration": [
+            "2H 40M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Aparajito",
+        "director": "Satyajit Ray",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGZhZDAxODQtNjhhZi00MGEwLWE0OWItNjZjYzVlNmM1Nzk0XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+        "description": "Following his father&apos;s death, a boy leaves home to study in Calcutta, while his mother must face a life alone.",
+        "language": "Bengali",
+        "gener": [
+            "Drama"
+        ],
+        "duration": [
+            "1H 50M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Drishyam",
+        "director": "Jeethu Joseph",
+        "image": "https://m.media-amazon.com/images/M/MV5BMGI0YTVkODYtMTZkYS00NDM0LThjNDktYWYzNjFhMzhmNTc5XkEyXkFqcGdeQXVyNzM0NTQ4MjM@._V1_.jpg",
+        "description": "A man goes to extreme lengths to save his family from punishment after the family commits an accidental crime.",
+        "language": "Malayalam",
+        "gener": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "duration": [
+            "2H 40M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Khosla Ka Ghosla!",
+        "director": "Dibakar Banerjee",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTg2YWFkOGMtYWExMy00YmFiLTk2YjctNTAzZDk5MjdhMzdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+        "description": "A Delhi-based retired middle-class man tries half-heartedly to get his land back from a swindling property dealer with the help of his sons and their friends.",
+        "language": "Hindi",
+        "gener": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "duration": [
+            "2H 15M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Vada Chennai",
+        "director": "Vetrimaaran",
+        "image": "https://m.media-amazon.com/images/M/MV5BNGNhMjE2NWQtMmNlZi00OTQyLWFhZjYtYmRlNmRhYjY2YmIxXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_.jpg",
+        "description": "A young carrom player in north Chennai becomes a reluctant participant in a war between two warring gangsters.",
+        "language": "Tamil",
+        "gener": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "duration": [
+            "2H 44M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Ratsasan",
+        "director": "Ram Kumar",
+        "image": "https://m.media-amazon.com/images/M/MV5BOGUzODM4NWYtM2M2Yi00ZjMyLWI3MzYtY2JiMGFiOGE2OTY2XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_.jpg",
+        "description": "A sub-inspector sets out in pursuit of a mysterious serial killer who targets teen school girls and murders them brutally.",
+        "language": "Tamil",
+        "gener": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": [
+            "2H 50M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Chupke Chupke",
+        "director": "Hrishikesh Mukherjee",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjAzMjMzMzU2N15BMl5BanBnXkFtZTgwMDkxOTE3NDE@._V1_.jpg",
+        "description": "A newly wedded husband plays a practical joke on his wife&apos;s family with full support from his wife and friends.",
+        "language": "Hindi",
+        "gener": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "duration": [
+            "2H 26M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Anniyan",
+        "director": "S. Shankar",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWVmOTliZWEtMGU1OS00ZTE1LTg3MWItYzRhMTY0NDZhMjhmXkEyXkFqcGdeQXVyODc2ODg0NDg@._V1_.jpg",
+        "description": "Ramanujam, who suffers from multiple personality disorder, works as a lawyer by day and a vigilante at night. He uses tips from the &apos;Garuda Purana&apos; as his tools to expose various antisocial elements.",
+        "language": "Tamil",
+        "gener": [
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "duration": [
+            "3H 3M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Peranbu",
+        "director": "Ram",
+        "image": "https://m.media-amazon.com/images/M/MV5BZjAwMDMyOTQtNzIzNi00Y2I5LWJjMjctYTU5MTQ3YjBjYWJiXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+        "description": "A single father tries to raise his daughter, who has cerebral palsy, even as she is beginning to wake up to her sexuality.",
+        "language": "Tamil",
+        "gener": [
+            "Drama"
+        ],
+        "duration": [
+            "2H 27M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Mahanati",
+        "director": "Nag Ashwin",
+        "image": "https://m.media-amazon.com/images/M/MV5BMmNkN2ZkODgtZTU1Zi00MDg3LWE1MGQtM2ZmY2Y3ODcwZmE5XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_.jpg",
+        "description": "Biography of Savitri, an actress from South India movie industry, who ruled the industry for two decades during 50s and 60s.",
+        "language": "Telugu",
+        "gener": [
+            "Biography",
+            "Drama"
+        ],
+        "duration": [
+            "2H 57M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Satya",
+        "director": "Ram Gopal Varma",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTMwMjk3MzA2OF5BMl5BanBnXkFtZTcwNjU2ODgzMQ@@._V1_.jpg",
+        "description": "An innocent man is embroiled in underworld after being falsely charged and sets out to punish the perpetrators who subjected his life to misery.",
+        "language": "Hindi",
+        "gener": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "duration": [
+            "2H 50M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Gangs of Wasseypur",
+        "director": "Anurag Kashyap",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTRkNjJmMWQtZWUzNy00YzM0LTg3NDMtYWRiODBkOGU5NDIzXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+        "description": "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.",
+        "language": "Hindi",
+        "gener": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "duration": [
+            "5H 21M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Bangalore Days",
+        "director": "Anjali Menon",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjU3MzY1ODItMTM0ZS00NTBjLWFmZTktYmNmOTkxNjRmM2VlXkEyXkFqcGdeQXVyODE0NjUxNzY@._V1_.jpg",
+        "description": "A fun roller coaster ride about three young people, Aju, Divya and Kuttan who are cousins, reach Bangalore to dream, discover and explore.",
+        "language": "Malayalam",
+        "gener": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "duration": [
+            "2H 51M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Premam",
+        "director": "Alphonse Puthren",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzJhNjMyOGMtYjhiYy00ZTAwLThmZWUtZmE5NzI3OTk4Y2M4XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_.jpg",
+        "description": "A young man has three opportunities to find love. Will the third time be the charm?",
+        "language": "Malayalam",
+        "gener": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "duration": [
+            "2H 36M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Agent Sai Srinivasa Athreya",
+        "director": "Swaroop Rsj",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWE2MjNiYzAtZTUyMi00ZWMwLThmNmYtMDNiZTdjYTg0MDZlXkEyXkFqcGdeQXVyOTY3NDM1NjY@._V1_.jpg",
+        "description": "Agent Sai Srinivasa Athreya is an authentic humorous investigative thriller revolving around the adventures of a detective based out of Nellore.",
+        "language": "Telugu",
+        "gener": [
+            "Comedy",
+            "Crime",
+            "Mystery"
+        ],
+        "duration": [
+            "2H 28M"
+        ],
+        "country": "India"
+    },
+    {
+        "name": "Drishyam",
+        "director": "Nishikant Kamat",
+        "image": "https://m.media-amazon.com/images/M/MV5BYmJhZmJlYTItZmZlNy00MGY0LTg0ZGMtNWFkYWU5NTA1YTNhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg",
+        "description": "Desperate measures are taken by a man who tries to save his family from the dark side of the law, after they commit an unexpected crime.",
+        "language": "Hindi",
+        "gener": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "duration": [
+            "2H 43M"
+        ],
+        "country": "India"
+    }
+]
